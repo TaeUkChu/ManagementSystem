@@ -6,6 +6,6 @@ public class productmanager {
     System.out.println("2. Add New Product");
     System.out.println("3. Edit Product");
     System.out.println("4. Delete Product");
-    System.out.println("5. End");
+    System.out.println("5. Bye");
     }
 }
